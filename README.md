@@ -1,1 +1,1 @@
-# Cal Poly Senior Project
+# BUS 464 Senior Project

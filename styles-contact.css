@@ -1,4 +1,4 @@
-/*This is my 377 FoCo Web Page Project using Eric Meyer's reset at the top of my page -- your CSS starts on line 56 */
+/*This is my Senior Project --  CSS starts on line 56 */
 
 
 
@@ -53,14 +53,14 @@ table {
 
 
 
-/* ---------- This is the beginning of my 377 FoCo Web Page Project ------------ */
+/* ---------- This is the beginning of my Senior Project ------------ */
 
 html, body {
   height: 100%;
   width: 100%;
   padding: 0;
   margin: 0;
-  background-image: url("images/SLO.jpg");
+  background-image: url("images/background_2.jpeg");
   background-size: cover;
 	
   background-repeat: no-repeat;
@@ -92,7 +92,7 @@ h1 {
 	font-size: 2em;
     margin: 0px auto 10px auto;
     color: #fff;
-  background: rgba(0, 150, 178, .75);
+  background: rgba(0, 2, 2, 0.0);
 }
 
 h2 {
@@ -102,7 +102,7 @@ h2 {
     color: #fff;
     padding: 0px 0px;
     margin: 0px auto 25px auto;
-    background: rgba(0, 150, 178, .75);
+    background: rgba(76, 54, 146, 255, .2);
 }
 
 p {
@@ -134,7 +134,7 @@ nav li {
 nav a {
 	display: inline-block;
 	padding: 10px; 
-	color: rgb(0, 150, 178);
+	color: rgb(255, 255, 255);
 	text-decoration: none;
 	font-weight: bold;
 
@@ -160,7 +160,7 @@ a:hover {
 a:hover
 {
         box-shadow:
-                1px 1px #53a7ea,
+                1px 1px #4c3692,
                 2px 2px #53a7ea,
                 3px 3px #53a7ea;
         -webkit-transform: translateX(-3px);
@@ -196,7 +196,7 @@ a:hover
  
   /* make the card flex. The default is row so change flex direction to vertical. */
   .card {
-    background-color: rgb(0, 150, 178, .75);
+    background-color: rgb(0, 150, 178, .1);
     display: flex;
     flex-direction: column;
     margin: 20px;
