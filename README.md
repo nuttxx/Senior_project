@@ -1,1 +1,1 @@
-# SLO-Running-Club
+# Cal Poly Senior Project
